@@ -1,0 +1,3 @@
+# TODO:
+- Password generation not working?
+- Fix login

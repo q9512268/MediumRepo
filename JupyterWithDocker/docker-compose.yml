@@ -9,5 +9,4 @@ object_detection:
      - "8888:8888"         #JupyterNB
 
   volumes:
-     - /Users/chamalgomes/Documents/Python/GitHub/medium/JupyterWithDocker/test.txt:/root/datascience/test.txt
-
+     - /Users/christianlutticke/Documents/workspace/cnn-from-scratch:/root/datascience
